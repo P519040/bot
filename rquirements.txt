@@ -1,0 +1,7 @@
+requests
+whois
+exifread
+shodan
+python-telegram-bot
+python-dotenv
+scapy

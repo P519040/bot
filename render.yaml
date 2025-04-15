@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: bot
+    runtime: python
+    buildCommand: ""
+    startCommand: "python bot.py"
+    envVars:
+      - key: BOT_TOKEN
+        value: 8037078100:AAGZ7p8c0T1uz5VkJE6wJi6dWBqlsrUxM-s
